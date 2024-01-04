@@ -6,8 +6,8 @@ function AllBars() {
     return(
         <>
          <TopBar></TopBar>
-         <div class="container-fluid">
-            <div class="row">
+         <div className="container-fluid">
+            <div className="row">
                 <Sidebar></Sidebar>
                 <Main></Main>
             </div>
